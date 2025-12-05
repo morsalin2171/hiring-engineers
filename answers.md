@@ -14,7 +14,7 @@ Ubuntu VM.
 1. Download Virtual Box from the official link below:
 <https://www.virtualbox.org/wiki/Downloads>
 
-2. Download the correct Virtual Box host for your Operating System
+2. Download the correct Virtual Box host for your Operating Systems
 
 <img align="center" src="https://image.ibb.co/ewYK2F/VB_Download.png">
 
