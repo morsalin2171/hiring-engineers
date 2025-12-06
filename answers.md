@@ -6,7 +6,7 @@
 
 * Bonus question: what is the agent?  
 
-  The agent is a program called: ddagent. It's a program that runs on my computer and collects events and metrics from it to send to Datadog.
+  The agent is a program called: ddagent. It is a program that runs on my computer and collects events and metrics from it to send to Datadog.
 
 * Submit an event via the API.
 
